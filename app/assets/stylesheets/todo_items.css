@@ -1,0 +1,22 @@
+/*
+  Place all the styles related to the matching controller here.
+  They will automatically be included in application.css.
+*/
+body{
+   color: blue;
+   font-style: oblique;
+   background-color: pink;
+ }
+
+table{
+  color: beige;
+}
+
+tbody{
+  text-align: center;
+}
+
+.new{
+font-family: cursive;
+font-size: 30px;
+}
